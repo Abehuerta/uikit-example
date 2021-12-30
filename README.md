@@ -8,7 +8,7 @@ Not published yet
 
 ## How to use
 
-To use components from this UI kit visit the [Storybook Documentation] (https://abehuerta.github.io/uikit-example/)
+To use components from this UI kit visit the [Storybook Documentation](https://abehuerta.github.io/uikit-example/)
 
 
 

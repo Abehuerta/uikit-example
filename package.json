@@ -62,7 +62,9 @@
     "@storybook/node-logger": "^6.4.9",
     "@storybook/preset-create-react-app": "^4.0.0",
     "@storybook/react": "^6.4.9",
+    "babel-plugin-styled-components": "^2.0.2",
     "jest": "^27.4.5",
+    "styled-components": "^5.3.3",
     "themeprovider-storybook": "^1.8.0",
     "webpack": "^5.65.0"
   }

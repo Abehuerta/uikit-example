@@ -1,8 +1,8 @@
 import React from "react";
 import { withThemesProvider } from "themeprovider-storybook";
-import light from "../src/theme/light";
-import dark from "../src/theme/dark";
-import ResetCSS from "../src/ResetCSS";
+//import light from "../src/theme/light";
+//import dark from "../src/theme/dark";
+//import ResetCSS from "../src/ResetCSS";
 
 
 export const parameters = {
@@ -15,6 +15,7 @@ export const parameters = {
   },
 }
 
+/*
 const themes = [
   {
     name: "Light",
@@ -29,3 +30,4 @@ const themes = [
 ];
 
 export const decorators = [globalDecorator, withThemesProvider(themes)];
+*/

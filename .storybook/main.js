@@ -5,8 +5,14 @@ module.exports = {
   ],
   "addons": [
     "@storybook/addon-links",
-    "@storybook/addon-essentials",
-    "@storybook/preset-create-react-app"
+    {
+      "name": "@storybook/addon-essentials",
+      "options": {
+        "backgrounds": "false",
+      }
+    },
+    "@storybook/preset-create-react-app",
+    "themeprovider-storybook/register",
   ],
   "framework": "@storybook/react",
   "core": {

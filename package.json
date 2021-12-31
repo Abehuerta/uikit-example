@@ -1,5 +1,5 @@
 {
-  "name": "react-playground",
+  "name": "uikit-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,7 @@
     "@types/node": "^16.7.13",
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
+    "@types/styled-system": "^5.1.14",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
@@ -54,6 +55,7 @@
     ]
   },
   "devDependencies": {
+    "@react-theming/storybook-addon": "^1.1.3",
     "@storybook/addon-actions": "^6.4.9",
     "@storybook/addon-essentials": "^6.4.9",
     "@storybook/addon-links": "^6.4.9",
@@ -62,8 +64,10 @@
     "@storybook/node-logger": "^6.4.9",
     "@storybook/preset-create-react-app": "^4.0.0",
     "@storybook/react": "^6.4.9",
+    "@types/styled-components": "^5.1.19",
     "babel-plugin-styled-components": "^2.0.2",
     "jest": "^27.4.5",
+    "react-router-dom": "^6.2.1",
     "styled-components": "^5.3.3",
     "themeprovider-storybook": "^1.8.0",
     "webpack": "^5.65.0"

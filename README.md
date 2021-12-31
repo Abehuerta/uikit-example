@@ -1,6 +1,6 @@
 # Example UI Kit
 
-This is a personal project for creating a reusable UI kit for React Web Apps/
+This is a personal project for creating a reusable UI kit for React Web Apps
 
 ## Installation
 

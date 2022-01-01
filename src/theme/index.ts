@@ -14,4 +14,5 @@ export interface AbesTheme {
 
 export { darkColors, lightColors } from "./colors";
 export { default as light } from "./light";
+export { default as dark } from "./dark";
 export * from "./types";

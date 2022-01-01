@@ -4,6 +4,7 @@ module.exports = {
     "../src/**/*.stories.@(js|jsx|ts|tsx)"
   ],
   "addons": [
+    "@react-theming/storybook-addon",
     "@storybook/addon-links",
     {
       "name": "@storybook/addon-essentials",
@@ -12,7 +13,6 @@ module.exports = {
       }
     },
     "@storybook/preset-create-react-app",
-    "themeprovider-storybook/register",
   ],
   "framework": "@storybook/react",
   "core": {

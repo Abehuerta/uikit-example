@@ -4,7 +4,7 @@ module.exports = {
     "../src/**/*.stories.@(js|jsx|ts|tsx)"
   ],
   "addons": [
-    "@react-theming/storybook-addon",
+    "@storybook/addon-controls",
     "@storybook/addon-links",
     {
       "name": "@storybook/addon-essentials",
@@ -12,6 +12,7 @@ module.exports = {
         "backgrounds": "false",
       }
     },
+    "@react-theming/storybook-addon",
     "@storybook/preset-create-react-app",
   ],
   "framework": "@storybook/react",
